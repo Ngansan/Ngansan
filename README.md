@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Kim+Ngan+Nguyen)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭I'm currently the third year of student at University of Information Technology,<br>HCM City<br>🌱I’m currently learning basic knowledge about Web Development and I know <br>a little bit of Data Science<br>
 
